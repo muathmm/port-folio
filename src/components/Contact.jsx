@@ -12,16 +12,21 @@ const Contact = () => {
                 <div className="text-gray-300 my-3">
                     <h3 className="text-4xl font-semibold mb-5">About <span>Me</span></h3>
                     <p className="text-justify leading-7 w-11/12 mx-auto">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                        eos, quam vel quisquam, explicabo sit labore dignissimos optio
-                        ratione quibusdam doloribus pariatur consequuntur sint.
-                        Reprehenderit cupiditate possimus facere quasi voluptatem?
+                    As a dedicated Software Engineer and Full Stack Web Developer, I specialize in both the MERN Stack
+                     (MongoDB, Express.js, React.js, Node.js) and .NET technologies.
+                      My extensive experience in developing robust, high-performance web
+                       applications ensures that I consistently deliver scalable and efficient solutions
+                        tailored to client needs. My dual expertise in front-end and back-end development 
+                        allows me to create seamless integrations and exceptional user experiences. I am 
+                        passionate about staying ahead of industry trends and continuously learning new
+                         technologies to bring innovative solutions to the table. Let's connect to discuss
+                     potential collaborations and how we can work together to achieve great results.
                     </p>
                 </div>
 
                 <div className="flex mt-10 items-center gap-7">
                     <div className="bg-gray-800/40 p-4 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">11
+                        <h3 className="md:text-4xl text-2xl font-semibold text-white">10
                             <span>+</span>
                         </h3>
                         <p className="text-xs md:text-base"><span>Projects</span></p>
@@ -35,7 +40,7 @@ const Contact = () => {
                     </div>
 
                     <div className="bg-gray-800/40 p-5 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">30
+                        <h3 className="md:text-4xl text-2xl font-semibold text-white">15
                             <span>+</span>
                         </h3>
                         <p className="text-xs md:text-base"><span>happy clients</span></p>
@@ -46,7 +51,7 @@ const Contact = () => {
             </div>
 
             <form
-                action="https://getform.io/f/placeYourEndpointHere"
+                action="https://getform.io/f/aejyeklb"
                 method="POST"
                 className=" max-w-6xl p-5 md:p-12"
                 id="form"
