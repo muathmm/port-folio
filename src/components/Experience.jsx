@@ -19,7 +19,7 @@ const certificates = [
 
 const itemsPerPage = 2;
 
-const Experience = () => {
+const Certificates = () => {
   const [currentPage, setCurrentPage] = useState(1);
 
   const indexOfLastItem = currentPage * itemsPerPage;
@@ -110,4 +110,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Certificates;

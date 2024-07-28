@@ -33,7 +33,7 @@ const Hero = () => {
             >
                 <TypeAnimation
                     sequence={[
-                        "Fullstack Dev",
+                        "FullStack Dev",
                         1000,
                         "Software Engineer",
                         1000,
@@ -103,13 +103,15 @@ const Hero = () => {
 
 
             <motion.img 
-      src={profilepic}
-      className="w-[200px] md:w-[300px] rounded-lg"
-      initial={{ opacity: 0, scale: 0.8 }}
-      whileInView={{ opacity: 1, scale: 1 }}
-      viewport={{ once: true }}
-      transition={{ duration: 1 }}
-    />
+    src={profilepic}
+    className=" rounded-full border-solid border-purple-700"
+ 
+    initial={{ opacity: 0, scale: 0.8 }}
+    whileInView={{ opacity: 1, scale: 1 }}
+    viewport={{ once: true }}
+    transition={{ duration: 1 }}
+  />
+  
         </div>
 
         <motion.div

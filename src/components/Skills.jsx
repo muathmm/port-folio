@@ -75,7 +75,7 @@ const Skills = () => {
                 {skill.technologies.map((tech, idx) => (
                   <div key={idx} className="flex items-center space-x-2">
                     <span className="text-2xl">{tech.icon}</span>
-                    <span>{tech.name}</span>
+                    <span className="text-gray-400">{tech.name}</span>
                   </div>
                 ))}
               </div>

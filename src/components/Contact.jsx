@@ -12,15 +12,14 @@ const Contact = () => {
                 <div className="text-gray-300 my-3">
                     <h3 className="text-4xl font-semibold mb-5">About <span>Me</span></h3>
                     <p className="text-justify leading-7 w-11/12 mx-auto">
-                    As a dedicated Software Engineer and Full Stack Web Developer, I specialize in both the MERN Stack
-                     (MongoDB, Express.js, React.js, Node.js) and .NET technologies.
-                      My extensive experience in developing robust, high-performance web
-                       applications ensures that I consistently deliver scalable and efficient solutions
-                        tailored to client needs. My dual expertise in front-end and back-end development 
-                        allows me to create seamless integrations and exceptional user experiences. I am 
-                        passionate about staying ahead of industry trends and continuously learning new
-                         technologies to bring innovative solutions to the table. Let's connect to discuss
-                     potential collaborations and how we can work together to achieve great results.
+                    As a versatile Software Engineer and Full Stack Web Developer, 
+                    I bridge the gap between cutting-edge technologies and real-world applications. 
+                    Specializing in both the MERN Stack and .NET, I deliver robust,
+                     scalable solutions tailored to unique needs.
+                      My expertise in both front-end and back-end development ensures cohesive and exceptional user experiences. 
+                      Driven by a passion for innovation and continuous learning, I thrive on bringing fresh, 
+                      effective solutions to the table.
+                     Let's connect to explore opportunities for impactful collaborations and exceptional results.
                     </p>
                 </div>
 

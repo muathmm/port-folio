@@ -60,6 +60,18 @@ const Portfolio = () => {
                         <div className='w-full md:w-1/2 p-4 flex flex-col justify-center'>
                         <h3 className='text-2xl font-semibold text-blue-500 mb-4'>{project.title}</h3>
                             <p className='text-gray-300 mb-4'>{project.description}</p>
+                            <div className='flex space-x-4'>
+                                    <a href={project.links.site}
+                                        className='px-4 py-2 bg-purple-600 text-gray-200 rounded-lg hover:bg-purple-800
+                                                    transition duration-300'>
+                                        View Site
+                                    </a>
+                                    <a href={project.links.github}
+                                        className='px-4 py-2 bg-purple-600 text-gray-200 rounded-lg hover:bg-purple-800
+                                                    transition duration-300'>
+                                        <AiOutlineGithub className='text-2xl' />
+                                    </a>
+                                </div>
                         </div>
                     </motion.div>
                 </Reveal>
