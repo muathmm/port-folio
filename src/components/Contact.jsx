@@ -11,7 +11,7 @@ const Contact = () => {
             <div>
                 <div className="text-gray-300 my-3">
                     <h3 className="text-4xl font-semibold mb-5">About <span>Me</span></h3>
-                    <p className="text-justify leading-7 w-11/12 mx-auto">
+                    <p className=" leading-7 w-11/12 mx-auto">
                     As a versatile Software Engineer and Full Stack Web Developer, 
                     I bridge the gap between cutting-edge technologies and real-world applications. 
                     Specializing in both the MERN Stack and .NET, I deliver robust,

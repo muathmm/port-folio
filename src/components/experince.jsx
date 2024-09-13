@@ -6,7 +6,7 @@ import Reveal from './Reveal'
 const experiences = [
     {
         company: 'Pro-Tech Company',
-        period: 'Mars 2020 - August 2020',
+        period: 'Mars 2020 - September 2020',
         description: 'Participated in a 6-month internship focusing on database management.Gained hands-on experience with SQL Server for database administration andmanagement.Assisted in designing, implementing, and maintaining database systems.Worked on optimizing queries and ensuring data integrity',
       }
 ]

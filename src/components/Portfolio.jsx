@@ -21,6 +21,24 @@ const projects = [
             site: "https://rococo-muffin-50b08e.netlify.app/",
             github: "https://github.com/project-weak",
         },
+    },
+    {
+        img: "https://i.postimg.cc/cCkWGzz8/Screenshot-2024-09-10-221623.png",
+        title: " 🚀Dern-Support🚀",
+        description: "Dern-Support IT Solution is a comprehensive platform that automates customer management, support requests, and repair scheduling for an IT support company, while integrating spare parts and job scheduling. It enhances operational efficiency, improves service delivery, and supports scalable business growth",
+        links: {
+            site: "https://dern-support-three.vercel.app/",
+            github: "https://github.com/muathmm/Frontend-Dern-Support",
+        },
+    },
+    {
+        img: "https://i.postimg.cc/LsKtgX7Z/Screenshot-2024-09-13-223355.png",
+        title: " 🎓EDU-LINK🎓",
+        description: "EDULINK Platform is an advanced academic support system that connects students with volunteer mentors in the College of Information Technology. Developed with .NET Core and React, it simplifies booking sessions, managing volunteer activities, and organizing college events, enhancing collaboration and the educational experience.",
+        links: {
+            site: "",
+            github: "https://github.com/DotNet-Midterm-Project",
+        },
     }
 ];
 

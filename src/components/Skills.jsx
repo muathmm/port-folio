@@ -2,6 +2,8 @@ import { motion } from "framer-motion";
 import React from "react";
 import { Link } from 'react-scroll';
 import {
+  
+  DiMsqlServer,
   DiHtml5,
   DiCss3,
   DiPostgresql,
@@ -35,6 +37,7 @@ const skills = [
       { name: 'MongoDB', icon: <DiMongodb className='text-green-600' /> },
       { name: '.NET', icon: <DiDotnet className='text-blue-500' /> },
       { name: 'PostgreSQL', icon: <DiPostgresql className='text-white-600' /> },
+      { name: 'SQLServer', icon: < DiMsqlServer  className='text-white-600' /> }
     ],
   },
   {
@@ -67,7 +70,7 @@ const Skills = () => {
               key={index}
               initial={{ opacity: 0, y: 50 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: index * 0.5 }} // تأخير بناءً على الفهرس
+              transition={{ duration: 1, delay: index * 0.5 }} 
               className="border border-purple-900 p-6 rounded-lg bg-purple-900/20 shadow-lg w-full md:w-[29%] mx-1"
             >
               <h3 className="text-xl font-bold mb-4 text-center">{skill.category}</h3>

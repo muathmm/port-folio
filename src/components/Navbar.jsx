@@ -34,7 +34,7 @@ const Navbar = () => {
   return (
     <div className="fixed top-0 left-0 w-full bg-opacity-90 backdrop-blur-md z-50">
       <div className="max-w-[1300px] mx-auto flex justify-between items-center px-12 h-20 text-gray-200 text-xl">
-        <a href="#" className="font-bold text-2xl">DEV.MM</a>
+   
         <ul className="hidden md:flex gap-12 z-10 cursor-pointer">
           <li className="relative group">
             <Link to="skills" smooth={true} offset={50} duration={500} className="hover:text-purple-400 transition duration-300">

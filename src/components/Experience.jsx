@@ -5,7 +5,7 @@ import Reveal from "./Reveal";
 
 const certificates = [
   {
-    title: 'Front end Certification',
+    title: 'Front-end Certification',
     img: 'https://i.postimg.cc/J0Z46C6Y/java-script.jpg',
     link: 'https://www.udemy.com/certificate/UC-48931f3c-4530-48a6-aa4c-14d65d98d58b/',
   },
@@ -13,8 +13,13 @@ const certificates = [
     title: 'MEAN Stack Certification',
     img: 'https://i.postimg.cc/KYGk1jqG/UC-06d4d06b-7176-4908-bd5a-14d6be50e86b.jpg',
     link: 'https://www.udemy.com/certificate/UC-06d4d06b-7176-4908-bd5a-14d6be50e86b/',
-  }
+  },
+  {
+  title: 'Frontend-JavaScript Certification',
+  img: 'https://i.postimg.cc/gJ3BLQNG/Screenshot-2024-09-13-214345.png',
+  link: 'https://coursat.orange.jo/mod/customcert/my_certificates.php?downloadcert=1&userid=9740&certificateid=4',
   // More certificates
+  }
 ];
 
 const itemsPerPage = 2;
