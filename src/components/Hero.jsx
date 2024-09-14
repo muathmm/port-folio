@@ -6,8 +6,7 @@ import ShinyEffect from "./ShinyEffect";
 import pdf from "../components/pdf/resume.pdf";
 import {
   AiOutlineGithub,
-  AiOutlineInstagram,
-  AiOutlineLink,
+
   AiOutlineLinkedin,
 } from "react-icons/ai";
 import {
@@ -94,9 +93,6 @@ const Hero = () => {
                             <AiOutlineLinkedin/>
                         </motion.a>
 
-                        <motion.a whileHover={{ scale: 1.2 }} href="#">
-                            <AiOutlineInstagram/>
-                        </motion.a>
                     </div>
                 </motion.div>
             </motion.div>

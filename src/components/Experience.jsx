@@ -4,6 +4,12 @@ import { AiOutlineEye, AiOutlineLeft, AiOutlineRight } from 'react-icons/ai';
 import Reveal from "./Reveal";
 
 const certificates = [
+
+  {
+    title: 'ICPC Jordanian Collegiate Programming ',
+    img: 'https://i.postimg.cc/5ypH12Qh/Screenshot-2024-09-14-233217.png',
+    link: 'https://drive.google.com/file/d/1SLQTRur11GmPb5rszV1V-p6Ix3neI2Eu/view?usp=sharing',
+  },
   {
     title: 'Front-end Certification',
     img: 'https://i.postimg.cc/J0Z46C6Y/java-script.jpg',
