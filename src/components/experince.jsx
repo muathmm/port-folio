@@ -8,6 +8,11 @@ const experiences = [
         company: 'Pro-Tech Company',
         period: 'Mars 2020 - September 2020',
         description: 'Participated in a 6-month internship focusing on database management.Gained hands-on experience with SQL Server for database administration andmanagement.Assisted in designing, implementing, and maintaining database systems.Worked on optimizing queries and ensuring data integrity',
+      },
+      {
+        company: 'Luminus Technical University College (LTUC)',
+        period: 'Mars 2024 - October 2024',
+        description: 'Completed a 9-month internship in web development, focusing on both full-stack  (Node.js, React.js, PostgreSQL) and .NET (ASP.NET Core, MVC) technologies. Built     scalable applications and gained hands-on experience in frontend and backend   development across multiple projects.',
       }
 ]
 
